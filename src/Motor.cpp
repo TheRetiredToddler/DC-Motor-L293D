@@ -24,16 +24,16 @@ void Motor::counterClockwise()
 
 int Motor::clockwiseSpeed(int speed)
 {
-	analogWrite(pin1, speed);
-	digitalWrite(pin2, LOW);
+    analogWrite(pin1, speed);
+    digitalWrite(pin2, LOW);
 	
-	return speed;
+    return speed;
 }
 
 int counterSpeed(int speed)
 {
-	digitalWrite(pin1, LOW);
-	analogWrite(pin2, speed);
+    digitalWrite(pin1, LOW);
+    analogWrite(pin2, speed);
 	
-	return speed;
+    return speed;
 }
