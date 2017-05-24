@@ -1,0 +1,5 @@
+Motor	KEYWORD1
+clockwise	KEYWORD2
+counter	KEYWORD2
+clockwiseSpeed	KEYWORD2
+counterSpeed	KEYWORD2

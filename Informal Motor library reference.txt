@@ -1,0 +1,25 @@
+clockwise() - Turns motor clockwise
+
+	- type: void
+
+	- returns: nothing
+
+counterClockwise() - Turns motor counter clockwise
+
+	- type: void
+
+	- returns: nothing
+
+clockwiseSpeed(int speed) - Turns motor clockwise at given
+speed
+
+	- type: int
+
+	- returns: speed
+
+counterSpeed(int speed) - Turns motor counter clockwise at
+given speed
+
+	- type: int
+
+	- returns: speed
