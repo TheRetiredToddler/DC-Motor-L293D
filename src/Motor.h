@@ -8,8 +8,8 @@ class Motor
         void clockwise();
         void counterClockwise();
 		
-		int clockwiseSpeed(int speed);
-		int counterSpeed(int speed);
+	int clockwiseSpeed(int speed);
+	int counterSpeed(int speed);
     protected:
 
     private:
