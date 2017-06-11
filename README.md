@@ -18,13 +18,13 @@ REFERENCE:
 
     - returns: nothing
 
-  clockwiseSpeed(int speed) - Turns motor clockwise at given speed
+  clockwiseSpeed(int speed) - Turns motor clockwise at given speed (0 - 255)
 
     - type: int
 
     - returns: speed
 
-  counterSpeed(int speed) - Turns motor counter clockwise at given speed
+  counterSpeed(int speed) - Turns motor counter clockwise at given speed (0 - 255)
 
     - type: int
 
